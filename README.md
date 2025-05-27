@@ -3,7 +3,7 @@
 AI-powered resume builder that generates compelling summaries, experiences, and project descriptions with just a few clicks — all styled beautifully and exportable as PDF.
 
 🚀 **Live soon!**  
-🔗 [GitHub Repo](https://github.com/M-K-07/ai-resume-builder) 
+🔗 [GitHub Repo](https://github.com/harishthailam/Ai-Resume-maker.git)
 
 ---
 
